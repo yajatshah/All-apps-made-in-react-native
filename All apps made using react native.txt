@@ -1,0 +1,67 @@
+Quiz buzzer
+TouchableOpacity
+components
+database connectifty
+styling of buttons and background
+component did mount
+switch navigation
+
+monkey chunky
+text inputs
+search screen
+local database
+to lowercase
+trim()
+
+libary app
+login screen
+resister screen
+transaction screen
+firestore
+created new ids in data base
+tab navigation
+flatlist
+key extractor
+data
+render item
+icons for tab navigator
+added custom font
+fonts loaded
+touchable opacity
+
+iss tracker app
+.slice to get 5 elements
+axios
+rf responsive font size
+bar style
+stack navigation
+api-applicaton programming interface
+json-javascript object notation
+threat score
+concat
+
+story telling app
+tab navigator
+drawer navigator
+ stack navigator
+material tab navigator
+on select item
+creat story screen
+dropdown picker
+acy=tive tint color 
+inactive tint color
+item style
+text to speech
+js folder for all the storys
+login screen
+fire base
+
+self design app
+screen time timer
+reading and writing- text to speech
+login screen
+custom theme and customisation
+ profile screen- where you can set what videos your child will watch, 
+parental controls, 
+axios
+
